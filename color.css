@@ -1,0 +1,9 @@
+:root {
+  --primary-color: #7c3aed;
+  --secondary-color: #6366f1;
+
+  --text-color: #1f2937;
+  --hero-font-color: #4b5563;
+
+  --button-gradient: linear-gradient(135deg, #7c3aed, #6366f1);
+}
